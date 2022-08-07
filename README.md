@@ -21,10 +21,7 @@ I experimented with
 
 ## Credits
 
-Icons:
-Font Awesome (fontawesome.io)
-
-Other:
+Icons: Font Awesome (fontawesome.io)
 jQuery (jquery.com)
 Responsive Tools (github.com/ajlkn/responsive-tools)
 
