@@ -9,7 +9,7 @@ Description
 
 **Tech used:** HTML, CSS, JavaScript
 
-I focused on 
+I focused on creating an artist's website where they could showcase their work within their own studio. 
 
 ## Optimizations
 
