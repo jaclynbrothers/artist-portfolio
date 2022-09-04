@@ -13,7 +13,7 @@ I focused on creating an artist's website where they could showcase their work w
 
 ## Optimizations
 
-When I improve this project, 
+When I improve this project, I would like to add 3D features to the website so the user could feel like they were walking around each piece or seeing multiple views and be able to interact with it to learn more. 
 
 ## Lessons Learned
 
