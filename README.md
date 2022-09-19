@@ -1,11 +1,9 @@
 # fmsilver's "Views of My Studio"
 This gallery website was created for the artist fmsilver to showcase their artwork made from recycled materials. 
 
-**Link to project:** 
+**Link to project:** https://fmsilver.netlify.app/
 
-![portfolio](https://fmsilver.netlify.app/)
-
-
+https://user-images.githubusercontent.com/102431119/191099089-7b668498-0919-4993-8203-871c8bce560d.mp4
 
 ## How It's Made
 
