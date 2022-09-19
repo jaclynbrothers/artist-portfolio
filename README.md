@@ -1,29 +1,25 @@
-# fmsilver's Tour of their Studio
-Description
+# fmsilver's "Views of My Studio"
+This gallery website was created for the artist fmsilver to showcase their artwork made from recycled materials. 
 
 **Link to project:** 
 
 ![portfolio](https://fmsilver.netlify.app/)
 
+
+
 ## How It's Made
 
 **Tech used:** HTML, CSS, JavaScript
 
-I focused on creating an artist's website where they could showcase their work within their own studio. 
+I focused on creating a website for fmsilver where they could showcase their work within their own studio. 
 
 ## Optimizations
 
-When I improve this project, I would like to add 3D features to the website so the user could feel like they were walking around each piece or seeing multiple views and be able to interact with it to learn more. 
+When I improve this project, I would like to add a dark mode for the website along with 3D features so the user could feel like they were walking around each piece or seeing multiple views and be able to interact with it to learn more. 
 
 ## Lessons Learned
 
-I experimented with 
-
-## Credits
-
-Icons: Font Awesome (fontawesome.io)
-jQuery (jquery.com)
-Responsive Tools (github.com/ajlkn/responsive-tools)
+I experimented with colors and detailed descriptions of each work for screen readers and overall accessibility. =
 
 ## Other Projects
 
