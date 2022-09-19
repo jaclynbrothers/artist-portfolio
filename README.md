@@ -17,7 +17,7 @@ When I improve this project, I would like to add a dark mode for the website alo
 
 ## Lessons Learned
 
-I experimented with colors and detailed descriptions of each work for screen readers and overall accessibility. =
+I experimented with colors and detailed descriptions of each work for screen readers and overall accessibility.
 
 ## Other Projects
 
