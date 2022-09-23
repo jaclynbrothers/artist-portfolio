@@ -98,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #a2a2a2;
+		color: #121212;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -134,8 +134,23 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+	.centeredText {
+		text-align: center;
+	}
+
+	.centeredForm {
+		justify-content: center;
+	}
+
+	h1, h3, h4, h5, h6 {
+		color: #121212;
+		font-weight: 400;
+		line-height: 1em;
+		margin: 0 0 1em 0;
+	}
+
+	h2 {
+		color: rgb(65, 54, 148);
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -151,9 +166,15 @@ input, select, textarea {
 		line-height: 1.5em;
 	}
 
-	h2 {
-		font-size: 1.5em;
+	.headerFontSize {
+		font-size: 2em;
 		line-height: 1.5em;
+	}
+
+	h2 {
+		font-size: 1.7em;
+		line-height: 1.5em;
+		text-align: center;
 	}
 
 	h3 {
@@ -1958,22 +1979,22 @@ input, select, textarea {
 	}
 
 	::-webkit-input-placeholder {
-		color: #b2b2b2 !important;
+		color: #121212 !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: #b2b2b2 !important;
+		color: #121212 !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: #b2b2b2 !important;
+		color: #121212 !important;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: #b2b2b2 !important;
+		color: #121212 !important;
 		opacity: 1.0;
 	}
 
@@ -2446,7 +2467,7 @@ input, select, textarea {
 		background-color: transparent;
 		border-radius: 0.35em;
 		border: solid 3px #efefef;
-		color: #787878 !important;
+		color: #121212 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
@@ -2600,7 +2621,8 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 8em 4em;
+		padding: 8em 4em 4em 2em;
+		/* previously 8em 4em; */
 		position: fixed;
 		text-align: right;
 		top: 0;
@@ -2624,7 +2646,7 @@ input, select, textarea {
 		}
 
 		#header strong, #header b {
-			color: #ffffff;
+			color: #121212;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
@@ -2684,7 +2706,8 @@ input, select, textarea {
 	#main {
 		margin-left: 35%;
 		max-width: 54em;
-		padding: 8em 4em 4em 4em;
+		padding: 4em 4em 4em 4em; 
+		/* previously 8em on top */
 		width: calc(100% - 35%);
 	}
 
