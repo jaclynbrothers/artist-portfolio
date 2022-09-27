@@ -3,7 +3,7 @@ This gallery website was created for the artist fmsilver to showcase their artwo
 
 **Link to project:** https://fmsilver.netlify.app/
 
-https://user-images.githubusercontent.com/102431119/191099089-7b668498-0919-4993-8203-871c8bce560d.mp4
+https://user-images.githubusercontent.com/102431119/192629874-fe8bb83b-fa0c-433d-9dcd-ad54a80c9491.mp4
 
 ## How It's Made
 
